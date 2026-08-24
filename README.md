@@ -15,3 +15,4 @@ Dug into pricing, discounting, and product positioning across Brand Sites, Myntr
 This kind of side-by-side view is a great way to benchmark pricing architecture, promo cadence, and product depth against a competitor — especially in the outdoor/apparel space where perceived value drives conversion.
 
 #CompetitiveIntelligence #MarketResearch #PowerBI #DataAnalytics #RetailStrategy #Ecommerce
+![Dashboard Preview](Screenshot%20(17).png)
